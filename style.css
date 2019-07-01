@@ -1,11 +1,17 @@
-.header {
+#header {
     
     background-color:white;
+    border-bottom: 5px solid #cccccc;
+    padding: 0%;
 }
 
 #name {
     background-color: #4aaaa5;
     color: white;
     
+}
+
+#body {
+    /* border:1px solid red; */
 }
 
