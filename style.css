@@ -15,9 +15,12 @@
 
     margin: 0 auto;
     margin-top: 20px;
-    background-color: white;
     clear: both;
     align-content: center;
+    background-color:#ffffff;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #dddddd;
     
 }
 
@@ -37,6 +40,25 @@
     padding-top: 40px;
     margin-top: 20px;
     border-top: 10px solid #4aaaa5;
+    
+}
+
+.portfolio {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    display: table-cell;
+    margin: 20px 20px 20px 20px;
+    display: inline-block;
+}
+
+.portfolioText {
+    background-color: #4aaaa5;
+    color: white;
+    margin-top: 150px;
+    height: 30px;
+    text-align: center;
+    padding-top: 7px;
     
 }
 
